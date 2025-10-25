@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/client.dir/TCP_Client_Cal.cc.o CMakeFiles/client.dir/log.cpp.o -o client  -ljsoncpp 
