@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/EpollServer.dir/Main.cc.o CMakeFiles/EpollServer.dir/log.cpp.o -o EpollServer  -ljsoncpp 

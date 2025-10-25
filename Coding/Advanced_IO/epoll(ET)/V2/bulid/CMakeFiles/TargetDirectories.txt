@@ -1,0 +1,4 @@
+/root/Coding/Advanced_IO/epoll(ET)/V2/bulid/CMakeFiles/EpollServer.dir
+/root/Coding/Advanced_IO/epoll(ET)/V2/bulid/CMakeFiles/client.dir
+/root/Coding/Advanced_IO/epoll(ET)/V2/bulid/CMakeFiles/edit_cache.dir
+/root/Coding/Advanced_IO/epoll(ET)/V2/bulid/CMakeFiles/rebuild_cache.dir
